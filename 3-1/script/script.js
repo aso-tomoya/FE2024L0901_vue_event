@@ -8,7 +8,7 @@ new Vue({
     },
     methods: {
         handleClick() {
-            this.text = 'button pushed';
+            this.text = 'button pushed'
         }
     }
 });
